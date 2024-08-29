@@ -4,24 +4,24 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- IDS1380
 
-- Course 2
+- COP2073
 
-- Course 3
+- MAS 3114
 
-- Course 4
+- IDC3180
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Computers
 
-- Thing 2
+- Information
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Science fiction
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2024/8/29
